@@ -1,6 +1,6 @@
 # Create .Net Core Project Command Line Template For Mac/Linux #
 
-Download the create-dotnet.sh
+Download the [create-dotnet.sh](./create-dotnet.sh)
 
 ```
 sudo +x create-dotnet.sh
@@ -10,7 +10,7 @@ sudo +x create-dotnet.sh
 ./create-dotnet.sh
 ```
 
-## create-dotnet.bat ##
+## create-dotnet.sh ##
 
 ```
 echo "Enter your project name"

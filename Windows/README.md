@@ -1,6 +1,7 @@
 # Create .Net Core Project Command Line Template For Windows #
 
-* Download the create-dotnet.bat
+* Download the [create-dotnet.bat](./create-dotnet.bat)
+
 * Copy "create-dotnet.bat" to your work folder.
 * Edit "create-dotnet" line 2
 ```
